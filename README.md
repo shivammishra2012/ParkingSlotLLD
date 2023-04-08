@@ -8,6 +8,10 @@ Switch Learning Path
 Shivam kumar
 
 Design Parking Lot
+
+
+
+
 1. Let’s design a Parking Lot system which can tell users about the Free Spots for Parking any vehicle. It will also manage the other important things like generating the tickets and collecting the money etc.
 
 2. Let’s look into some basic requirements our system needs to have.
@@ -67,6 +71,7 @@ HEAVY
 RANDOM,
 
 NEAREST
+![image](https://user-images.githubusercontent.com/42523000/230704068-8489fdb1-07af-4e01-8492-c2ae8ec63356.png)
 
 
 
@@ -90,6 +95,7 @@ And these classes will have the same methods as our interface.
 13. Similarly we can create FourWheelManager and HeavyVehicleManager.
 
 14.                                      
+![image](https://user-images.githubusercontent.com/42523000/230704088-38caf968-3413-4cde-afdf-44fbdb699cdc.png)
 
 
 
@@ -109,6 +115,7 @@ And these classes will have the same methods as our interface.
 21. Now we can create a concrete implementation class of this interface i.e. NearestSelector and RandomSelector 
 
   
+![image](https://user-images.githubusercontent.com/42523000/230704101-a12b305b-3886-4e56-ae3a-e3d3e4d09c7c.png)
 
 
 
